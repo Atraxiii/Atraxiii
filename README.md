@@ -1,19 +1,20 @@
 - 👋 Hi, I’m @Atraxiii
 - 
 - 👀 I’m interested in 
-- Web Development
-- Customized Software Development
-- Recreational Computer Science
+- Recreational CS
+- Solving Maths and Physics problems using CS
+- Simulation Software Development
+- Game/Physics Engine Development
 - 
 - 🌱 I’m currently learning 
-- PHP
 - Python
-- JavaScript
-- HTML + CSS
+- C++
+- Processing
+- C#
 - 
 - 💞️ I’m looking to collaborate on 
-- Research Projects related to Science
-- Customized Software Development(preferable for use in a scientific industry)
+- Research Projects related to Physics and Maths
+- Simulation Software Development
 - etc.
 - 
 - 📫 How to reach me 
